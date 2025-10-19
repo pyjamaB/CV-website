@@ -1,0 +1,21 @@
+body {
+  margin: auto;
+  max-width: 50em;
+  font-family: sans-serif;
+  background-color: lightblue;
+}
+
+.header {
+  background-color: black;
+  color: silver;
+  margin: 0.5em 0;
+  padding: 1em;
+
+.content {
+  background-color: white;
+  margin: 0.5em 0;
+  padding: 1em;
+
+h1, h2 {
+  margin: 0;
+}
